@@ -38,7 +38,7 @@ Vamos a realizar una tabla para marcar el resultado de los controles y el cumpli
 | ---- | ---- | ------------------------------------------------------------ |
 |      | X    | Los datos de los clientes de la UE se mantienen privados/seguros. |
 | X    |      | Hay un plan en marcha para notificar a los clientes de la UE dentro de las 72 horas si sus datos han sido comprometidos/hay una brecha. |
-|      | X    | Asegurar que los datos estén correctamente clasificados e inventariados. |
+| X    |      | Asegurar que los datos estén correctamente clasificados e inventariados. |
 | X    |      | Hacer cumplir políticas de privacidad, procedimientos y procesos para documentar y mantener adecuadamente los datos. |
 
 ### Controles del Sistema y de las Organizaciones (SOC tipo 1, SOC tipo 2)
@@ -49,3 +49,5 @@ Vamos a realizar una tabla para marcar el resultado de los controles y el cumpli
 |      | X    | Los datos sensibles (PII/SPII) son confidenciales/privados.  |
 | X    |      | La integridad de los datos garantiza que los datos sean consistentes, completos, precisos y hayan sido validados. |
 |      | X    | Los datos están disponibles para las personas autorizadas a acceder a ellos. |
+
+Para comprobar la correcta realización de esta auditoria el curso de Google nos proporciona una manera de resolver el ejercicio [aqui](https://github.com/Ramonperu/AuditSimulation/blob/main/Solution.docx)
